@@ -36,3 +36,4 @@ A lightweight React Single Page Application (SPA) built with Vite to demonstrate
    ```bash
    npm run dev
    ```
+
